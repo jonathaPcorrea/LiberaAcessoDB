@@ -1,0 +1,2 @@
+C:\Projetos-C#\WinForms\LiberaBanco\LiberaBanco-v2\bin\Debug\LiberaBanco.exe.config
+C:\Projetos-C#\WinForms\LiberaBanco\LiberaBanco-v2\obj\Debug\LiberaBanco.csproj.ResolveComReference.cache

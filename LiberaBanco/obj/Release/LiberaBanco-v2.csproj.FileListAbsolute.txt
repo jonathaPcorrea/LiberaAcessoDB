@@ -1,0 +1,13 @@
+C:\Projetos-C#\WinForms\LiberaBanco\LiberaBanco-v2\LiberaBanco-v2\bin\Release\LiberaBanco-v2.exe.config
+C:\Projetos-C#\WinForms\LiberaBanco\LiberaBanco-v2\LiberaBanco-v2\obj\Release\LiberaBanco-v2.csproj.ResolveComReference.cache
+C:\Projetos-C#\WinForms\LiberaBanco\LiberaBanco-v2\LiberaBanco-v2\bin\Release\LiberaBanco-v2.exe
+C:\Projetos-C#\WinForms\LiberaBanco\LiberaBanco-v2\LiberaBanco-v2\bin\Release\LiberaBanco-v2.pdb
+C:\Projetos-C#\WinForms\LiberaBanco\LiberaBanco-v2\LiberaBanco-v2\bin\Release\Oracle.DataAccess.dll
+C:\Projetos-C#\WinForms\LiberaBanco\LiberaBanco-v2\LiberaBanco-v2\obj\Release\LiberaBanco_v2.LiberaBanco.resources
+C:\Projetos-C#\WinForms\LiberaBanco\LiberaBanco-v2\LiberaBanco-v2\obj\Release\LiberaBanco_v2.solicitacoes.resources
+C:\Projetos-C#\WinForms\LiberaBanco\LiberaBanco-v2\LiberaBanco-v2\obj\Release\LiberaBanco_v2.usuarios.resources
+C:\Projetos-C#\WinForms\LiberaBanco\LiberaBanco-v2\LiberaBanco-v2\obj\Release\LiberaBanco_v2.LiberaAcesso.resources
+C:\Projetos-C#\WinForms\LiberaBanco\LiberaBanco-v2\LiberaBanco-v2\obj\Release\LiberaBanco_v2.Properties.Resources.resources
+C:\Projetos-C#\WinForms\LiberaBanco\LiberaBanco-v2\LiberaBanco-v2\obj\Release\LiberaBanco-v2.csproj.GenerateResource.Cache
+C:\Projetos-C#\WinForms\LiberaBanco\LiberaBanco-v2\LiberaBanco-v2\obj\Release\LiberaBanco-v2.exe
+C:\Projetos-C#\WinForms\LiberaBanco\LiberaBanco-v2\LiberaBanco-v2\obj\Release\LiberaBanco-v2.pdb
